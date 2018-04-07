@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.topGray {
+  background: gray;
+  width: 100%;
+  height: 110px;
+  padding-top: 20px;
+}
+
+.blueSquare {
+  height: 75px;
+  width: 75px;
+  background: lightskyblue;
+  margin-left: 20px;
+}
+
+.bigWhite {
+  height: 300px;
+  width: 100%;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+.blue {
+  height: 110px;
+  width: 100%;
+  background: lightskyblue;
+}
+
+.aqua {
+  height: 110px;
+  width: 100%;
+  background: aqua;
+}
+
+.green {
+  height: 110px;
+  width: 100%;
+  background: lightgreen;
+}
+.yellow {
+  height: 110px;
+  width: 100%;
+  background: khaki;
+}

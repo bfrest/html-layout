@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: inline-block;
+}
+
+.top {
+  height: 100px;
+  width: 100vw;
+  background: dimgray;
+}
+
+.left {
+  background: lightgray;
+  height: 762px;
+  width: 150px;
+  float: left;
+}
+
+.right {
+  background: lightgray;
+  height: 762px;
+  width: 150px;
+  float: right;
+}
+
+.bottom {
+  height: 100px;
+  width: 72%;
+  background: dimgray;
+  margin: auto;
+  margin-top: 62.3%;
+}

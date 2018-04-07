@@ -1,0 +1,66 @@
+.blackBorder {
+  margin: auto;
+  height: 200px;
+  width: 90%;
+  border: 5px solid black;
+  margin-bottom: 30px;
+}
+.purple {
+  height: 60%;
+  width: 50px;
+  background: purple;
+  margin-left: 15px;
+  margin-top: 55px;
+  float: left;
+}
+.green {
+  background: green;
+  width: 40%;
+  height: 80%;
+  float: left;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.blue {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background: lightblue;
+  z-index: 1;
+  float: left;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.dotted {
+  margin-top: 50px;
+  margin: auto;
+  height: 300px;
+  width: 90%;
+  border: 5px dotted black;
+  margin-bottom: 20px;
+}
+
+.creme {
+  width: 90%;
+  height: 70%;
+  background: tan;
+  margin: auto;
+  margin-top: 40px;
+  box-shadow: 10px 10px 10px black;
+}
+
+.shadow {
+  border: 1px solid lightgrey;
+  height: 300px;
+  width: 50%;
+  margin: auto;
+  box-shadow: 2px 2px 2px gray;
+  text-align: center;
+  padding-top: 11%;
+}
+
+h2 {
+  color: navy;
+}
